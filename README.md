@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey there 🦦
+I'm Daniel, a software developer living in Berlin. Nice to have you on my github page!
 
-<!--
-**daniel-xyz/daniel-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Some of my interests:
+- 🌳 Nature & travel
+- 📚 Reading
+- 🎤 Singing
+- 🤸‍♂️ Sports
+- ☕️ Coffee & podcasts or audio books
 
-Here are some ideas to get you started:
+#### My current tools:
+- React Native
+- Expo
+- FaunaDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Actively working on:
+A gluten-free app 🌾 that will be announced soon
