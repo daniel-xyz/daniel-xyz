@@ -9,9 +9,9 @@ I'm Daniel, a software developer living in Berlin. Nice to have you on my github
 - ☕️ Coffee & podcasts or audio books
 
 #### My current tools:
-- React Native
-- Expo
-- FaunaDB
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Fauna](https://fauna.com/)
 
 #### Actively working on:
 A gluten-free app 🌾 that will be announced soon
