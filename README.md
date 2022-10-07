@@ -3,15 +3,15 @@ I'm Daniel, a software developer living in Berlin. Nice to have you on my github
 
 #### Some of my interests:
 - 🌳 Nature & travel
-- 📚 Reading
-- 🎤 Singing
+- 📚 Reading and audio books
 - 🤸‍♂️ Sports
-- ☕️ Coffee & podcasts or audio books
+- 🎤 Singing
+- ☕️ Coffee & enjoying a slow life
 
 #### My current tools:
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-- [Fauna](https://fauna.com/)
+- <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>
+- <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer">Expo</a>
+- <a href="https://fauna.com/" target="_blank" rel="noopener noreferrer">Fauna</a>
 
 #### Actively working on:
 A gluten-free app 🌾 that will be announced soon
