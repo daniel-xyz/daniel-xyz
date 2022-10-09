@@ -2,11 +2,11 @@
 I'm Daniel, a software developer living in Berlin. Nice to have you on my github page!
 
 #### Some of my interests:
-- 🌳 Nature & travel
-- 📚 Reading and audio books
-- 🤸‍♂️ Sports
-- 🎤 Singing
-- ☕️ Coffee & enjoying a slow life
+- 🌳 Go into nature & travel
+- 📚 Read and listen to audio books
+- 🤸‍♂️ Do sports outside even when it's cold
+- 🎤 Pretend that I can sing
+- 🚀 Dream about my next project
 
 #### My current tools:
 - <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>
