@@ -2,9 +2,9 @@
 I'm Daniel, a software developer living in Berlin and founder of [FoodQuest](https://food.quest)<br/>
 
 #### Some of my interests
-🌳 Go into nature & travel<br/>
-📚 Read and listen to audio books<br/>
-🤸‍♂️ Do sports outside even when it's cold<br/>
+🚲 Go into nature & travel<br/>
+📚 Macro Economics, Tech, Neuroscience, Personal Development<br/>
+🏋️‍♂️ Strength training & Pilates<br/>
 🎤 Pretend that I can sing<br/>
 🚀 Dream about my next project
 
@@ -15,4 +15,3 @@ I'm Daniel, a software developer living in Berlin and founder of [FoodQuest](htt
 - <a href="https://postgresql.org/" target="_blank" rel="noopener noreferrer">🐘 PostgreSQL</a>
 - <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer">📱 Expo</a>
 - <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">⚡️ supabase</a>
-- <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">🔺 Vercel</a>
