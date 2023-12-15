@@ -8,3 +8,4 @@ I'm Daniel, a software developer living in Berlin and founder of [FoodQuest](htt
 - <a href="https://postgresql.org/" target="_blank" rel="noopener noreferrer">🐘 PostgreSQL</a>
 - <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer">📱 Expo</a>
 - <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">⚡️ supabase</a>
+- <a href="https://workers.cloudflare.com/" target="_blank" rel="noopener noreferrer">🌐 Cloudflare Workers</a>
