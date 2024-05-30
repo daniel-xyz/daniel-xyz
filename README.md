@@ -1,5 +1,5 @@
 ## Hey! 🦦
-I'm Daniel, a software developer living in Berlin and founder of [FoodQuest](https://food.quest)<br/>
+I'm Daniel, a software developer living in Berlin and founder of [FoodQuest](https://foodquest.com)<br/>
 
 ### My current stack
 - ⚛️ <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>
