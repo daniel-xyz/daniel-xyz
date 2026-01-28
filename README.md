@@ -1,5 +1,5 @@
 ## Hey! 🦦
-I’m Daniel, a full-stack software developer based in Berlin and founder of [FoodQuest](https://foodquest.com)<br/>
+I’m Daniel, a full-stack software developer based in Berlin.
 
 ### My current stack
 - ⚛️ <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">React Native</a>
